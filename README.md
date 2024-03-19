@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/ky5S3b2/pixlr-image-generator-1cb542a6-fd0e-4c4b-aa19-10478624047e.png" width="400"/>
+<img src="https://i.ibb.co/ky5S3b2/pixlr-image-generator-1cb542a6-fd0e-4c4b-aa19-10478624047e.png" width="600"/>
 
 # Hafen_React
 
