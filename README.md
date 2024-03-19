@@ -1,4 +1,6 @@
 
+<img src="https://i.ibb.co/ky5S3b2/pixlr-image-generator-1cb542a6-fd0e-4c4b-aa19-10478624047e.png" width="400"/>
+
 # Hafen_React
 
 This application was created with the solo purpose of fulfilling the proposed code challenge.
